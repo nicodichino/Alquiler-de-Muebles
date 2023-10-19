@@ -43,4 +43,4 @@ Los middlewares mencionados anteriormente contribuyen significativamente a la se
 
 ### Metodología AGILE
 El equipo siguió la metodología ágil para el desarrollo del proyecto. Esto implicó ciclos iterativos y entregas incrementales que se organizaron en 4 sprints de 2 semanas cada uno. Se llevaron a cabo reuniones regulares de revision y planificacion para garantizar un
-desarrollo continuo y adaptativo del producto. Se realizaron las ceremonias SCRUM, donde miembros del equipo asumimos el rol de scrum master en distintos mometntos.
+desarrollo continuo y adaptativo del producto. Se realizaron las ceremonias SCRUM, donde miembros del equipo asumimos el rol de scrum master en distintos momentos.
